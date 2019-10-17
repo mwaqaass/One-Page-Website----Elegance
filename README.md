@@ -1,10 +1,2 @@
 # One-Page-Website----Elegance
-![img1](https://user-images.githubusercontent.com/33598165/65433178-f9f92b00-de35-11e9-90f3-421626db857b.PNG)
-![img2](https://user-images.githubusercontent.com/33598165/65433179-fa91c180-de35-11e9-8abe-c9150fada1c2.PNG)
-![img3](https://user-images.githubusercontent.com/33598165/65433167-f82f6780-de35-11e9-8a94-45ba89968ca2.PNG)
-![img4](https://user-images.githubusercontent.com/33598165/65433171-f8c7fe00-de35-11e9-9e24-d09744884632.PNG)
-![img5](https://user-images.githubusercontent.com/33598165/65433173-f8c7fe00-de35-11e9-8d38-508b9ff99613.PNG)
-![img6](https://user-images.githubusercontent.com/33598165/65433174-f9609480-de35-11e9-9dd7-97c49f841066.PNG)
-![img7](https://user-images.githubusercontent.com/33598165/65433175-f9609480-de35-11e9-8491-7055fb3dc55e.PNG)
-![img8](https://user-images.githubusercontent.com/33598165/65433176-f9f92b00-de35-11e9-9dae-af4026de3edc.PNG)
-![img9](https://user-images.githubusercontent.com/33598165/65433177-f9f92b00-de35-11e9-9c3a-62ab16e9a20f.PNG)
+![screencapture-elegance-template-1-000webhostapp-2019-10-18-01_42_27](https://user-images.githubusercontent.com/33598165/67045923-aa620280-f148-11e9-80c9-981507829fee.png)
